@@ -4,7 +4,7 @@ const App=()=>{
   return (
     <View>
       <Text style={styles.eleHead}>Hello World</Text>
-      <Text>React Native is an open-source mobile application framework used to develop apps for Android, Apple, Windows platforms; and for the web.</Text>
+      <Text>Hello World. Test for something</Text>
       
     </View>
   )
